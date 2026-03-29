@@ -17,7 +17,8 @@ This project operates on the premise that glossolalia is not random or unknowabl
 - /translations → Completed translated passages  
 - /lexicon → Structured word database  
 - /methodology → Translation rules and grammar system  
-- /notes → Working interpretations and drafts  
+- /notes → Working interpretations and drafts
+- /schemas → AI Schemas
 
 ---
 
