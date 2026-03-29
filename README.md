@@ -34,7 +34,7 @@ Example:
 
 - Bai yān naukau Yarada ar sur makhin nekki hay 
 - बाई यान नौकौ यारदा अर् सुर् मखिन् नेक्की हय 
-- the Mother’s Phalanx of paired Emissary–Yarada, who killed the Priest of the Upright Horse…
+- The Mother’s Phalanx of paired Emissary–Yarada, who killed the Priest of the Upright Horse…
 
 
 ---
