@@ -32,9 +32,9 @@ Each entry follows a consistent three-line structure:
 
 Example:
 
-*Ai jūn oyara ḍha...*  
-ऐ जून ओयर ढ...  
-Remember the stubborn Avatar serpent...
+Bai yān naukau Yarada ar sur makhin nekki hay
+बाई यान नौकौ यारदा अर् सुर् मखिन् नेक्की हय
+the Mother’s Phalanx of paired Emissary–Yarada, who killed the Priest of the Upright Horse
 
 ---
 
