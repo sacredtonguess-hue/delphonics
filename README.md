@@ -13,6 +13,7 @@ This project operates on the premise that glossolalia is not random or unknowabl
 
 ## Structure
 
+- /audio → Source recordings (segmented + full)
 - /translations → Completed translated passages  
 - /glossolalia → Raw utterances (source material)  
 - /lexicon → Structured word database  
