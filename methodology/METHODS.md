@@ -1,49 +1,42 @@
-# Delphonics Methodology (v1.0) — UPDATED
+# Delphonics Methodology (v1.0) — FINAL AUDIT
 
 ## I. Structural Hierarchy (The Triple-Layer Logic)
-... [As previously established]
+To reconstruct the source audio, apply the following linguistic priority to every string:
+
+1. **Primary (Sanskrit/Vedic):** The **Morphological Skeleton**. Defines case endings, dual/plural suffixes, and core noun roots (e.g., *janane*, *kāye*).
+2. **Secondary (Prakrit):** **Phonetic Shifts**. Accounts for vowel assimilation and consonant softening (e.g., *j* to *y* shifts) found in the oral delivery.
+3. **Tertiary (Marathi):** **Kinetic/Intensive Phrasing**. Provides percussive or colloquial vocabulary and governs "final suffix dropping" (e.g., *koṇ*).
 
 ## II. Phonetic Hard-Coding & Vowel Shifts
 
-### 1. The U-to-O Dialect Shift
-* **Rule:** In this specific dialect of delivery, the vowel **"u"** is frequently pronounced as **"o"**.
-* **Example:** *Rui* (Antelope/The Antelope Mansion) is phonetically realized as **"ROI"**.
-* **Exceptions:** The "u" sound is preserved (remains a "u") in specific roots and particles:
+### 1. The U-to-O Dialect Shift (Vowel Coalescence)
+* **Auditory Reality:** In this specific dialect, the high vowel **"u"** and the diphthong **"au"** are frequently realized as a mid-back **"O"** sound.
+* **Rule:** Even when "Oh" is heard, the transcription must map to the underlying **-u-** or **-au-** to preserve grammatical meaning.
+* **Case Study:** *Rui* (Antelope) is phonetically realized as **"ROI"**. *Mukhau* (Two Mouths) sounds like **"Mo-kho"**.
+* **Exceptions (Stable "u"):**
     * **Nu (नु):** "Now" or "Praise/Roar" (e.g., *Nu Nau Yāradā*).
     * **Yuna (युन):** "Vile/Wicked" (e.g., *Yuna nahana*).
     * **Bhuyo (भूयः):** "Once more/Over and over."
 
 ### 2. The Mahāprāṇa (Aspiration) Constraint
-* **Rule:** Aspirated consonants (**dh, bh, kh, th, gh**) carry distinct semantic value and must **never** be collapsed.
-    * *mukau* (मुकौ — silent) vs. *mukhau* (मुखौ — mouth/face).
-    * *dhaukau* (धौकौ) is unique and not a typo for *daukau*.
+Aspirated consonants (**dh, bh, kh, th, gh**) carry distinct semantic value and must **never** be collapsed.
+* **Semantic Near-Misses:**
+    * *mukau* (मुकौ — silent/mute dual) vs. *mukhau* (मुखौ — mouth/face dual).
+    * *dhaukau* (धौकौ) is a unique entity and is not a typo for *daukau*.
 
 ### 3. Consonant Fluidity
-* **The Y-Shift:** Sounds beginning with *Y* may correspond to *J* or *Y* roots (e.g., *Yāradā*).
-* **The B/V/W Interchange:** *B*, *V*, and *W* are treated as interchangeable.
+* **The Y-Shift:** Sounds beginning with *Y* may correspond to either *J* or *Y* in the source lexicon (e.g., *yāne* vs *jāne*).
+* **The B/V/W Interchange:** The consonants *B*, *V*, and *W* are treated as interchangeable within the spoken series.
 
 ## III. Grammatical & Functional Markers (The Anchors)
 
 ### 1. The Verb "To Be" (Ho)
-* **Rule:** The syllable **Ho** (हो) functions as the primary **Verb to Be** (is/are/become).
+* **Rule:** The syllable **Ho** (हो) functions as the primary **Verb to Be** (is/are/become) or an affirmative particle. It stabilizes the identity of the subject.
 
-### 2. The Lunar Mansion Alignment (Animal Symbolism)
-* **Rule:** Animal references relate to the **Sanskrit Zodiac (Nakshatras)**.
-    * *Horse (Haya/Hay)*
-    * *Small Horse (Yāradā)*
-    * *Serpent (ḍha)*
-    * *Antelope (Rui — pronounced "ROI")*
+### 2. Action Markers vs. Nouns
+* **Sur (सुर्):** Functional verb meaning **to kill** or **to rule over**.
+* **Haya / Hay (हय):** Noun meaning **Horse**.
+* **Yāradā (यारदा):** Noun meaning **Small Horse**.
 
-### 3. Action Markers
-* **Sur (सुर्):** To kill; to rule over (e.g., *Yāradā ar sur moca* — "Small Horse killed the tree").
-
-### 4. Suffix Anchors
-| Suffix | Grammatical Function | Contextual Significance |
-| :--- | :--- | :--- |
-| **-a** | **Singular** | Primary subject. |
-| **-au / -ou** | **Sanskrit Dual** | Denotes "The Two" (Paired entities). |
-| **-ah / -as** | **Plural** | Denotes a collective body. |
-
-## IV. Data Standards & Workflow
-* **Encoding:** **UTF-8-SIG (BOM)** for all exports.
-* **The Pipeline:** Extraction -> Alignment (Nakshatras) -> Syntax Mapping (Ho-Verb/Suffixes) -> Commitment to Book of Record.
+### 3. The Lunar Mansion Alignment (Animal Symbolism)
+* **Rule:**
