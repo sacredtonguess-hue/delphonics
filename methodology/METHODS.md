@@ -1,42 +1,19 @@
-# Delphonics Methodology (v1.0) — FINAL AUDIT
-
-## I. Structural Hierarchy (The Triple-Layer Logic)
-To reconstruct the source audio, apply the following linguistic priority to every string:
-
-1. **Primary (Sanskrit/Vedic):** The **Morphological Skeleton**. Defines case endings, dual/plural suffixes, and core noun roots (e.g., *janane*, *kāye*).
-2. **Secondary (Prakrit):** **Phonetic Shifts**. Accounts for vowel assimilation and consonant softening (e.g., *j* to *y* shifts) found in the oral delivery.
-3. **Tertiary (Marathi):** **Kinetic/Intensive Phrasing**. Provides percussive or colloquial vocabulary and governs "final suffix dropping" (e.g., *koṇ*).
-
-## II. Phonetic Hard-Coding & Vowel Shifts
-
 ### 1. The U-to-O Dialect Shift (Vowel Coalescence)
-* **Auditory Reality:** In this specific dialect, the high vowel **"u"** and the diphthong **"au"** are frequently realized as a mid-back **"O"** sound.
-* **Rule:** Even when "Oh" is heard, the transcription must map to the underlying **-u-** or **-au-** to preserve grammatical meaning.
-* **Case Study:** *Rui* (Antelope) is phonetically realized as **"ROI"**. *Mukhau* (Two Mouths) sounds like **"Mo-kho"**.
-* **Exceptions (Stable "u"):**
-    * **Nu (नु):** "Now" or "Praise/Roar" (e.g., *Nu Nau Yāradā*).
-    * **Yuna (युन):** "Vile/Wicked" (e.g., *Yuna nahana*).
-    * **Bhuyo (भूयः):** "Once more/Over and over."
+* **Auditory Reality:** In this specific 10-minute dialect, the high vowel **"u"** and the diphthong **"au"** frequently collapse into a mid-back **"O"** sound.
+* **Mapping Rule:** Even when "Oh" or "ROI" is heard, the transcription must map to the underlying **-u-** or **-au-** to preserve grammatical meaning (e.g., The Dual Number).
 
-### 2. The Mahāprāṇa (Aspiration) Constraint
-Aspirated consonants (**dh, bh, kh, th, gh**) carry distinct semantic value and must **never** be collapsed.
-* **Semantic Near-Misses:**
-    * *mukau* (मुकौ — silent/mute dual) vs. *mukhau* (मुखौ — mouth/face dual).
-    * *dhaukau* (धौकौ) is a unique entity and is not a typo for *daukau*.
+#### The "Glide-Lock" Exceptions (Stable "u")
+The shift to "O" is **blocked** when the vowel is anchored by specific high-resonance consonants. In these cases, the "u" sound is preserved:
+1.  **The Y-Anchor (Internal Glides):** When "u" follows a **y**, the tongue position remains too high to drop to "O."
+    * *Example:* **Keyura** (केयुर) — Armlet.
+2.  **The N-Anchor (Initial/Emphatic Particles):** Short, functional markers beginning with **n** maintain the root "u."
+    * *Example:* **Nu / Nū** (नु) — Now/Praise.
+3.  **Root-Specific Stability:**
+    * **Yuna** (युन) — Vile/Wicked.
+    * **Bhuyo** (भूयः) — Over and over (The initial 'u' stays stable).
 
-### 3. Consonant Fluidity
-* **The Y-Shift:** Sounds beginning with *Y* may correspond to either *J* or *Y* in the source lexicon (e.g., *yāne* vs *jāne*).
-* **The B/V/W Interchange:** The consonants *B*, *V*, and *W* are treated as interchangeable within the spoken series.
-
-## III. Grammatical & Functional Markers (The Anchors)
-
-### 1. The Verb "To Be" (Ho)
-* **Rule:** The syllable **Ho** (हो) functions as the primary **Verb to Be** (is/are/become) or an affirmative particle. It stabilizes the identity of the subject.
-
-### 2. Action Markers vs. Nouns
-* **Sur (सुर्):** Functional verb meaning **to kill** or **to rule over**.
-* **Haya / Hay (हय):** Noun meaning **Horse**.
-* **Yāradā (यारदा):** Noun meaning **Small Horse**.
-
-### 3. The Lunar Mansion Alignment (Animal Symbolism)
-* **Rule:**
+#### The "O-Shift" Triggers (Realized as "O")
+The shift occurs most aggressively in:
+* **Suffixes:** *-au* (The Dual) almost always sounds like "Oh" (*Mukhau* -> *Mokho*).
+* **Diphthongs:** *ui* almost always sounds like "OI" (*Rui* -> *ROI*).
+* **Unstressed Internals:** *nuno* (where the second 'u' shifts due to lack of stress).
